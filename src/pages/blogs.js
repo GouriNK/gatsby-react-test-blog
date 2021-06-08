@@ -14,6 +14,11 @@ const Blogs = () => {
               frontmatter {
                 path
                 title
+                thumbnailImage {
+                  childImageSharp {
+                    gatsbyImageData(width: 200)
+                  }
+                }
               }
             }
           }

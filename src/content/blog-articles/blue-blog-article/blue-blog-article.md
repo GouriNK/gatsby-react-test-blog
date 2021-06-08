@@ -1,9 +1,10 @@
 ---
-path: "/blog/blue-article"
-title: "The Blue Article"
+path: /blog/blue-article
+thumbnailImage: ../../../images/blue-sky-thumbnail.png
+title: The Blue Article
 tags: ["react", "gatsby", "netlify", "blog"]
-date: "2021-06-07T11:21"
-author: "Angelina Blue"
+date: 2021-06-07T11:21
+author: Angelina Blue
 ---
 # Obliquaque narrat frondibus quoque deus qui mihi
 
@@ -35,6 +36,8 @@ crudelia* parato duxque.
 > aut, si ictus. Prora et fera mora et nisi pavido? Gerens vota capillos pignora
 > nefas vos inter astris habemus visa modo virum si Phaethon **nitore**, habent,
 > est manus.
+
+![alt text](./blue-sky.jpeg "Tooltip for blue sky")
 
 ## Colle igni
 

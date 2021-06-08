@@ -1,9 +1,10 @@
 ---
-path: "/blog/red-article"
-title: "The Red Article"
+path: /blog/red-article
+thumbnailImage: ../../../images/red-flowers-thumbnail.jpeg
+title: The Red Article
 tags: ["react", "gatsby", "netlify", "blog"]
-date: "2021-06-07T11:15"
-author: "Angelina Red"
+date: 2021-06-07T11:15
+author: Angelina Red
 ---
 # Mihi civibus ignea adire
 
@@ -33,6 +34,8 @@ adfectas Aeolides de.
             fileExabyte, format_baseband(-4)), raw_banner_video * 66 *
             data.codec_digital_optic.kibibyteDrive(dataSecondaryDriver,
             processor_peripheral));
+
+![alt text](./red-flowers.jpeg "Tooltip for red flowers")
 
 ## Vertice secutus Calydonia a timor stricto atque
 
